@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AdvancedMultiAnalyzer.label>高级多元分析仪</AdvancedMultiAnalyzer.label>
+  <AdvancedMultiAnalyzer.description>当放置在研究台附近时.\nOne 研究台只能链接到一个高级多元分析仪但可以链接普通多元分析仪.</AdvancedMultiAnalyzer.description>
+  <AdvancedMultiAnalyzer_Blueprint.label>高级多元分析仪 (蓝图)</AdvancedMultiAnalyzer_Blueprint.label>
+  <AdvancedMultiAnalyzer_Blueprint_Install.label>高级多元分析仪 (蓝图)</AdvancedMultiAnalyzer_Blueprint_Install.label>
+  <AdvancedMultiAnalyzer_Frame.label>高级多元分析仪 (建造中)</AdvancedMultiAnalyzer_Frame.label>
+  <AdvancedMultiAnalyzer_Frame.description>当放置在研究台附近时.\nOne 研究台只能链接到一个高级多元分析仪但可以链接普通多元分析仪.</AdvancedMultiAnalyzer_Frame.description>
+
+
+</LanguageData>

@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Cabinets -->
+
+  <ImprovedCabinet.label>改良工具柜</ImprovedCabinet.label>
+  <ImprovedCabinet.description>建造一个相比默认版本能获得更大的工作速度奖励的工具柜.</ImprovedCabinet.description>
+
+  <MechanicCabinet.label>机械工具柜</MechanicCabinet.label>
+  <MechanicCabinet.description>建立一个储备充足的工具柜以获得更大工作速度奖励.</MechanicCabinet.description>
+
+  <ScientistCabinet.label>科研工具柜</ScientistCabinet.label>
+  <ScientistCabinet.description>建立一个高级闪耀世界工具柜,它需要电力以给予荒谬的工作速度奖励,它也可以略微给予研究速度奖励.</ScientistCabinet.description>
+
+
+  <!-- Hospital -->
+
+  <SurgicalLamp.label>手术灯</SurgicalLamp.label>
+  <SurgicalLamp.description>建造一个手术灯在病床旁边可以减少医生的失误.</SurgicalLamp.description>
+
+  <SurgicalInstruments.label>手术器械</SurgicalInstruments.label>
+  <SurgicalInstruments.description>建造在病床旁边可以提高医生的医疗质量.</SurgicalInstruments.description>
+
+
+  <!-- Advanced Multi Analyzer -->
+
+  <AdvancedMultiAnalyzer.label>高级多元分析仪</AdvancedMultiAnalyzer.label>
+  <AdvancedMultiAnalyzer.description>建造一个升级版的多元分析仪可以进一步的加速研究.</AdvancedMultiAnalyzer.description>
+
+
+</LanguageData>

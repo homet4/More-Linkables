@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 改良工具柜 -->
+
+  <ToolCabinetA.label>改良工具柜</ToolCabinetA.label>
+  <ToolCabinetA.description>当放置在工作台附近时能提高工作速度.\nOne 工作台只能连接到一个改良工作台但仍然可以连接到其它类型的工具柜</ToolCabinetA.description>
+  <ToolCabinetA_blueprint.label>改良工具柜 (blueprint)</ToolCabinetA_blueprint.label>
+  <ToolCabinetA_blueprint_Install.label>改良工具柜 (blueprint)</ToolCabinetA_blueprint_Install.label>
+  <ToolCabinetA_Frame.label>改良工具柜 (建造中)</ToolCabinetA_Frame.label>
+  <ToolCabinetA_Frame.description>当放置在工作台附近时能提高工作速度.\nOne 工作台只能连接到一个改良工作台但仍然可以连接到其它类型的工具柜</ToolCabinetA_Frame.description>
+
+
+  <!-- Mechanic's Cabinet -->
+
+  <ToolCabinetB.label>机械工具柜</ToolCabinetB.label>
+  <ToolCabinetB.description>当放置在工作台附近时能极大地提高工作速度.\nOne 工作台只能连接到一个机械工具柜但仍然可以连接到其它类型的工具柜</ToolCabinetB.description>
+  <ToolCabinetB_blueprint.label>机械工具柜 (blueprint)</ToolCabinetB_blueprint.label>
+  <ToolCabinetB_blueprint_Install.label>机械工具柜 (blueprint)</ToolCabinetB_blueprint_Install.label>
+  <ToolCabinetB_Frame.label>机械工具柜 (建造中)</ToolCabinetB_Frame.label>
+  <ToolCabinetB_Frame.description>当放置在工作台附近时能极大地提高工作速度.\nOne 工作台只能连接到一个机械工具柜但仍然可以连接到其它类型的工具柜</ToolCabinetB_Frame.description>
+
+
+  <!-- Scientist's Cabinet -->
+
+  <ToolCabinetC.label>科研工具柜</ToolCabinetC.label>
+  <ToolCabinetC.description>当放置在工作台附近时能极大地提高工作速度提高工作速度并且在放置在研究台附近时能略微提高研究速度.\nOne workbench/研究台和工作台只能连接到一个科研工具柜但依然科研连接其它类型的工具柜</ToolCabinetC.description>
+  <ToolCabinetC_blueprint.label>科研工具柜 (蓝图)</ToolCabinetC_blueprint.label>
+  <ToolCabinetC_blueprint_Install.label>科研工具柜 (蓝图)</ToolCabinetC_blueprint_Install.label>
+  <ToolCabinetC_Frame.label>科研工具柜 (建造中)</ToolCabinetC_Frame.label>
+  <ToolCabinetC_Frame.description>当放置在工作台附近时能极大地提高工作速度提高工作速度并且在放置在研究台附近时能略微提高研究速度.\nOne workbench/研究台和工作台只能连接到一个科研工具柜但依然科研连接其它类型的工具柜</ToolCabinetC_Frame.description>
+
+
+  <!-- 橱柜 -->
+
+  <KitchenCupboard.label>橱柜</KitchenCupboard.label>
+  <KitchenCupboard.description>当放置在炉灶/屠宰台附近时提高烹饪速度和屠宰速度.\nA 一个工作台最多可以连接两个橱柜.</KitchenCupboard.description>
+  <KitchenCupboard_blueprint.label>橱柜 (蓝图)</KitchenCupboard_blueprint.label>
+  <KitchenCupboard_blueprint_Install.label>橱柜 (蓝图)</KitchenCupboard_blueprint_Install.label>
+  <KitchenCupboard_Frame.label>橱柜 (建造中)</KitchenCupboard_Frame.label>
+  <KitchenCupboard_Frame.description>当放置在炉灶/屠宰台附近时提高烹饪速度和屠宰速度.\nA 一个工作台最多可以连接两个橱柜.</KitchenCupboard_Frame.description>
+
+
+</LanguageData>

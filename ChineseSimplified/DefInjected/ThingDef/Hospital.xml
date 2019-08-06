@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 手术灯 -->
+
+  <SurgicalLamp.label>手术灯</SurgicalLamp.label>
+  <SurgicalLamp.description>当放置于医疗床附近时能增加手术成功率,和免疫速度.仅适用于医疗床-普通穿不会生效.附加多个手术灯到一张床上不会有效果.</SurgicalLamp.description>
+  <SurgicalLamp_Blueprint.label>手术灯 (蓝图)</SurgicalLamp_Blueprint.label>
+  <SurgicalLamp_Blueprint_Install.label>手术灯 (蓝图)</SurgicalLamp_Blueprint_Install.label>
+  <SurgicalLamp_Frame.label>手术灯 (建造中)</SurgicalLamp_Frame.label>
+  <SurgicalLamp_Frame.description>当放置于医疗床附近时能增加手术成功率,和免疫速度.仅适用于医疗床-普通穿不会生效.附加多个手术灯到一张床上不会有效果.</SurgicalLamp_Frame.description>
+
+
+  <!-- 手术器械 -->
+
+  <SurgicalInstruments.label>手术器械</SurgicalInstruments.label>
+  <SurgicalInstruments.description>当放置于医疗床附近时能提高治疗质量,和免疫速度.仅适用于医疗床-普通穿不会生效.附加多个手术器械到一张床上不会有效果.</SurgicalInstruments.description>
+  <SurgicalInstruments_Blueprint.label>手术器械 (蓝图)</SurgicalInstruments_Blueprint.label>
+  <SurgicalInstruments_Blueprint_Install.label>手术器械 (蓝图)</SurgicalInstruments_Blueprint_Install.label>
+  <SurgicalInstruments_Frame.label>手术器械 (建造中)</SurgicalInstruments_Frame.label>
+  <SurgicalInstruments_Frame.description>当放置于医疗床附近时能提高治疗质量,和免疫速度.仅适用于医疗床-普通穿不会生效.附加多个手术器械到一张床上不会有效果.</SurgicalInstruments_Frame.description>
+
+
+</LanguageData>
